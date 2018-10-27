@@ -4,7 +4,7 @@
 
 /* ojec */
 // var person = {
-// 	_constructor 
+// 	 
 // 	firstName 	: " tran",
 // 	lastName	: " phi ",
 // 	sayHello	: function(){
